@@ -1,0 +1,31 @@
+{
+  "name": "com.iron-mountain.shapes",
+  "version": "1.1.0",
+  "displayName": "Shapes",
+  "author": "Chris Monteferrante <ludachrismonte@gmail.com>",
+  "unity": "2019.1",
+  "type": "tool",
+  "license": "MIT",
+  "homepage": "https://github.com/Iron-Mountain-Software/shapes#readme",
+  "bugs": {
+    "type": "git",
+    "url": "https://github.com/Iron-Mountain-Software/shapes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iron-Mountain-Software/shapes.git"
+  },
+  "description": "A collection of basic shapes.",
+  "useCases": [],
+  "directions": null,
+  "keywords": [
+    "2d"
+  ],
+  "sources": [
+    {
+      "type": "git",
+      "url": "https://github.com/Iron-Mountain-Software/shapes"
+    }
+  ],
+  "dependencies": {}
+}
